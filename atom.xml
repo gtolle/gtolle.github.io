@@ -4,7 +4,7 @@
   <title><![CDATA[Gilman Tolle]]></title>
   <link href="http://gtolle.github.io/atom.xml" rel="self"/>
   <link href="http://gtolle.github.io/"/>
-  <updated>2014-04-10T10:29:59-07:00</updated>
+  <updated>2014-04-10T10:34:28-07:00</updated>
   <id>http://gtolle.github.io/</id>
   <author>
     <name><![CDATA[Gilman Tolle]]></name>
@@ -12,5 +12,16 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[About Me]]></title>
+    <link href="http://gtolle.github.io/blog/2014/04/10/about-me/"/>
+    <updated>2014-04-10T10:30:43-07:00</updated>
+    <id>http://gtolle.github.io/blog/2014/04/10/about-me</id>
+    <content type="html"><![CDATA[<p>I love running! I also love mind-bending and hilarious books, teaching
+people to code, dressing stylishly, and geeking out around data
+visualization for stuff like transit and biking and finances.</p>
+]]></content>
+  </entry>
   
 </feed>

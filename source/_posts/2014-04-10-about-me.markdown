@@ -1,0 +1,11 @@
+---
+layout: post
+title: "About Me"
+date: 2014-04-10 10:30:43 -0700
+comments: true
+categories: 
+---
+
+I love running! I also love mind-bending and hilarious books, teaching
+people to code, dressing stylishly, and geeking out around data
+visualization for stuff like transit and biking and finances.

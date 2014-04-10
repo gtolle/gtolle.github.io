@@ -6,6 +6,21 @@ comments: true
 categories: 
 ---
 
-I love running! I also love mind-bending and hilarious books, teaching
-people to code, dressing stylishly, and geeking out around data
-visualization for stuff like transit and biking and finances.
+I'm the co-founder of
+[Share Some Style](http://www.sharesomestyle.com), along with Diane Loviglio.
+
+If you're feeling fashion-challenged and want help, we're the easiest
+and most affordable way to get 1-on-1 help from a style
+expert. Your personal stylist will come to your house, take you out shopping, shop for
+you online, and get you all sorted out.
+
+Beats the heck out of getting a box of clothes in the mail! Plus, you'll have lots of fun.
+
+In my spare time, I love:
+
+* running
+* reading mind-bending and hilarious books
+* teaching people to code
+* geeking out around data visualization for stuff like transit and biking and finances
+
+I'm starting this blog to post random things - probably more tech-slanted and teaching-oriented, but we'll see.
